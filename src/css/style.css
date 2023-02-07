@@ -1,26 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap');
 
-/* *{
+*{
     margin: 0;
     padding: 0;
-} */
+}
 
 body{
     font-family: 'League Spartan', sans-serif;
-    
+    background-color: hsl(0, 0%, 100%);
 }
 
 .titulo{
-    background-color: aqua;
     width: 280px;
     color: hsl(300, 43%, 22%);
-}
-
-.conteiner-titulo p{
-    background-color: blueviolet;
-    width: 370px;
+    font-size: 45px;
+    margin: 60px 0px 0px 100px;
 }
 
 .conteiner-estrela {
     background-color: brown;
+    display: flex;
+}
+
+.conteiner-estrela .informacoes{
+    background-color: blueviolet;
+    width: 370px;
+}
+
+/*  */
+.depoimentos{
+    display: flex;
+}
+
+.depoimentos .colton-smith{
+    background-color: hsl(300, 43%, 22%);
+    color: hsl(0, 0%, 100%);
+    width: 280px;
+    margin: 10px;
+}
+
+.depoimentos .colton-smith h5{
+    color: hsl(333, 80%, 67%);
+}
+
+.depoimentos .irene-robers{
+    background-color: hsl(300, 43%, 22%);
+    color: hsl(0, 0%, 100%);
+    width: 280px;
+    margin: 10px;
+}
+
+.depoimentos .irene-robers h5{
+    color: hsl(333, 80%, 67%);
+}
+
+.depoimentos .anne-wallace{
+    background-color: hsl(300, 43%, 22%);
+    color: hsl(0, 0%, 100%);
+    width: 280px;
+    margin: 10px;
+}
+
+.depoimentos .anne-wallace h5{
+    color: hsl(333, 80%, 67%);
 }
