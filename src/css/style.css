@@ -68,6 +68,10 @@ body{
     border-radius: 5px;
 }
 
+.depoimentos .colton-smith .imagem-perfil, .irene-robers .imagem-perfil, .anne-wallace .imagem-perfil {
+    display: flex;
+}
+
 .depoimentos .irene-robers{
     margin-top: 20px;
 }
@@ -80,7 +84,7 @@ body{
     color: hsl(333, 80%, 67%);
 }
 
-.colton-smith p, .irene-robers p, .anne-wallace p{
+.depoimentos .colton-smith p, .irene-robers p, .anne-wallace p{
     width: 280px;
 }
 
