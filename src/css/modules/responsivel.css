@@ -1,0 +1,46 @@
+@media(max-width: 900px){
+    .conteiner-titulo{
+        text-align: center;
+        width: 300px;
+    }
+
+    .titulo{
+        font-size: 32px;
+    }
+
+    .sub-titulo{
+        width: 290px;
+    }
+
+    .conteiner-estrelas{
+        width: 300px;
+        margin-top: 25px;
+    } 
+
+    .conteiner-estrelas .report-guru{
+        margin-right: 0;
+    }
+
+    .conteiner-estrelas .reviews{
+        margin-right: 0;
+    }
+
+    .conteiner-estrelas .reviews, .report-guru, .besttech{
+        display: flex;
+        flex-direction: column;
+        width: 290px;
+        margin-right: 0;
+    }
+
+    .roted-5{
+        margin-top: 5px;
+    }
+
+    .depoimentos{
+        margin-top: 5px;
+    }
+
+    .depoimentos .anne-wallace{
+        margin: 20px 20px 40px 20px;
+    }
+}
