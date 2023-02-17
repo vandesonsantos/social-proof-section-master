@@ -2,7 +2,7 @@
 
 [<img src="./\src\imagens/tela-readme.gif" target="_blank">](https://vandesonsantos.github.io/social-proof-section-master/) 
 
-## Bem-vindos! 👋
+## Bem-Vindos! 👋
 
 Projeto realizado com a colaboração da [@AnaNazario] <https://github.com/ananazario>. Design Frontend Mentor, uma landing page - Social Proof Section. 
 
@@ -16,7 +16,7 @@ Incrementado ao projeto um script de animação com efeito de escrita para o tí
 - Java Script
 
 
-## Quer utilizar a animação usada no projeto?
+## Quer Utilizar o Script Usado no Projeto?
 ```
 const titulo = document.querySelector('[data-titulo]')
 
@@ -39,5 +39,3 @@ escrita();
 
 
 **Divirta-se!** 🚀
-
-
