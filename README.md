@@ -4,7 +4,7 @@
 
 ## Bem-Vindos! 👋
 
-Projeto realizado com a colaboração da [@AnaNazario] <https://github.com/ananazario>. Design Frontend Mentor, uma landing page - Social Proof Section. 
+Projeto realizado na comunidade de desenvolvedores Desbravando a Programação (uma comunidade que estimula o trabalho em equipe, simulando o mercado de trabalho) com a colaboração da [@AnaNazario] <https://github.com/ananazario>.  Design Frontend Mentor, uma landing page - Social Proof Section. 
 
 Incrementado ao projeto um script de animação com efeito de escrita para o título.
 
@@ -13,7 +13,7 @@ Incrementado ao projeto um script de animação com efeito de escrita para o tí
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
 - Flexbox
-- Java Script
+- JavaScript
 
 
 ## Quer Utilizar o Script Usado no Projeto?
@@ -35,7 +35,7 @@ escrita();
 ```
 
 ## Deploy Do Projeto
-- [GitHub Pages](https://vandesonsantos.github.io/social-proof-section-master/)
+- [GitHub Pages](https://vandesonsantos.github.io/social-proof-section-master/)  
 
 
 **Divirta-se!** 🚀
